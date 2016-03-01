@@ -1,0 +1,14 @@
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.gnode {
+    font: 10px sans-serif;
+    color: black;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
